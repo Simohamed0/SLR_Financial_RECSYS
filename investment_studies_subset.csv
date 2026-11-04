@@ -1,0 +1,36 @@
+﻿title,doi,year,output_portfolio,market_only_input,personalization_user_model,portfolio_relevant
+A novel stock recommendation system using Guba sentiment analysis,10.1007/s00779-018-1121-x,2018,no,yes,no,no
+Stock Recommendations for Individual Investors: A Temporal Graph Network Approach with Mean-Variance Efficient Sampling,10.1145/3677052.3698662,2024,no,no,yes,yes
+A Stock-movement Aware Approach for Discovering Investors' Personalized Preferences in Stock Markets,10.1109/ICTAI.2018.00051,2018,no,no,yes,no
+Addressing the cold-start problem of recommendation systems for financial products by using few-shot deep learning,10.1007/s10489-022-03374-x,2022,no,no,yes,no
+An equity fund recommendation system by combing transfer learning and the utility function of the prospect theory,10.1016/j.jfds.2018.02.003,2018,no,no,yes,no
+Can Perturbations Help Reduce Investment Risks? Risk-aware Stock Recommendation via Split Variational Adversarial Training,10.1145/3643131,2024,no,yes,no,no
+Explainable mutual fund recommendation system developed based on knowledge graph embeddings,10.1007/s10489-021-03136-1,2022,no,no,yes,no
+Federated Meta Embedding Concept Stock Recommendation,10.1109/TBDATA.2022.3214622,2024,no,yes,no,no
+Graph neural networks with deep mutual learning for designing multi-modal recommendation systems,10.1016/j.ins.2023.119815,2024,no,no,yes,no
+Graph-Based Recommendation Engine for Stock Investment Decisions,10.1007/978-3-031-24197-0_8,2023,no,no,yes,yes
+Graph-Based Stock Recommendation by Time-Aware Relational Attention Network,10.1145/3451397,2022,no,yes,no,no
+Graph-Convolved Factorization Machines for Personalized Recommendation,10.1109/TKDE.2021.3100564,2023,no,no,yes,no
+Harnessing Behavioral Traits to Enhance Financial Stock Recommender Systems: Tackling the User Cold Start Problem,10.1109/BigData59044.2023.10386644,2023,no,no,yes,no
+Large-scale Recommendation for Portfolio Optimization,10.1145/3240323.3240386,2018,no,no,yes,yes
+Modeling and analysis of a stock-based collaborative filtering algorithm for the Chinese stock market,10.1016/j.eswa.2019.113006,2020,no,yes,no,no
+Modeling behavior sequence for personalized fund recommendation with graphical deep collaborative filtering,10.1016/j.eswa.2021.116311,2022,no,no,yes,no
+Non-local Graph Aggregation for Diversified Stock Recommendation,10.1007/978-981-19-8991-9_12,2022,yes,yes,no,no
+Personalized Dynamic Recommender System for Investors,10.1145/3539618.3592035,2023,no,no,yes,no
+Sectoral recommendation system for medium term investment using technical indicators,10.1016/j.eswa.2024.125161,2024,no,yes,no,no
+SPCM: A Machine Learning Approach for Sentiment-Based Stock Recommendation System,10.1109/ACCESS.2024.3357114,2024,no,yes,no,no
+Personalized Stock Recommendation with Investors' Attention and Contextual Information,10.1145/3539618.3591850,2023,no,no,yes,no
+Can ChatGPT improve investment decisions? From a portfolio management perspective,10.1016/j.frl.2024.105433,2024,yes,yes,no,no
+"Your AI, Not Your View: The Bias of LLMs in Investment Analysis",10.1145/3768292.3770375,2025,no,yes,no,no
+Research on stock intelligent recommendation model based on LZ-Apriori algorithm,10.1145/3770177.3770269,2025,no,no,yes,no
+Investment Recommender System Model Based on the Potential Investors' Key Decision Factors,10.1089/big.2022.0302,2025,no,no,yes,no
+A model for investment type recommender system based on the potential investors based on investors and experts feedback using ANFIS and MNN,10.1186/s40537-024-00965-y,2024,no,no,yes,no
+Adaptive neuro-fuzzy inference system for customizing investment type based on the potential investors’ demographics and feedback,10.1186/s40537-023-00784-7,2023,no,no,yes,no
+A Rule-Based Stock Trading Recommendation System Using Sentiment Analysis and Technical Indicators,10.3390/electronics14040773,2025,no,yes,no,no
+Recommendation of A-Share Stock-Based Graph Dual-Attention Self-Learning,10.1109/ACCESS.2025.3614302,2025,no,yes,no,no
+Aligning Language Models with Investor and Market Behavior for Financial Recommendations,10.1145/3768292.3770399,2025,no,no,yes,no
+Incorporating Domain-Specific Traits into Personality-Aware Recommendations for Financial Applications,10.1007/s00354-024-00241-w,2024,no,no,yes,no
+Are Generative AI Agents Effective Personalized Financial Advisors?,10.1145/3726302.3729897,2025,no,no,yes,no
+Democratizing Alpha: LLM-Driven Portfolio Construction for Retail Investors Using Public Financial Media,10.1145/3768292.3770376,2025,yes,yes,no,no
+Mean Variance Efficient Collaborative Filtering for Stock Recommendations,10.1145/3768292.3770427,2025,no,no,yes,yes
+Personalized fund recommendation with dynamic utility learning,10.1186/s40854-024-00720-5,2025,no,no,yes,no

@@ -1,0 +1,87 @@
+Title,Published Year,DOI,problem_contribution_clarity,evaluation_soundness,result_credibility,slr_relevance
+CEBRA: A CasE-Based Reasoning Application to recommend banking products,2021,10.1016/j.engappai.2021.104327,2,1,2,2
+DCDIR: A Deep Cross-Domain Recommendation System for Cold Start Users in Insurance Domain,2020,10.1145/3397271.3401193,2,1,1,2
+A Heterogeneous Information Network based Cross Domain Insurance Recommendation System for Cold Start Users,2020,10.1145/3397271.3401426,2,2,2,2
+A Hierarchical Insurance Recommendation Framework Using GraphOLAM Approach,2020,10.1145/3341161.3345643,2,1,2,1
+A Joint Approach to Data Clustering and Robo-Advisor,2018,10.1007/978-3-030-00006-6_9,2,1,1,2
+A novel stock recommendation system using Guba sentiment analysis,2018,10.1007/s00779-018-1121-x,2,1,2,2
+A Recommendation System For Car Insurance,2020,10.1007/s13385-020-00236-z,2,1,2,1
+A Recommender System For Investing In Early-Stage Enterprises,2020,10.1145/3341105.3375767,2,1,2,1
+Stock Recommendations for Individual Investors: A Temporal Graph Network Approach with Mean-Variance Efficient Sampling,2024,10.1145/3677052.3698662,1,1,2,2
+A Trend-aware Investment Target Recommendation System with Heterogeneous Graph,2021,10.1109/IJCNN52387.2021.9533535,2,2,1,2
+A Knowledge-aware and Time-sensitive Financial News Recommendation System Based on Firm Relation Derivation,2021,10.1109/ICDMW53433.2021.00146,1,2,2,2
+A Stock-movement Aware Approach for Discovering Investors' Personalized Preferences in Stock Markets,2018,10.1109/ICTAI.2018.00051,1,2,1,2
+A Venture Capital Recommendation Algorithm based on Heterogeneous Information Network,2020,10.15837/ijccc.2020.1.3779,2,1,2,2
+Adaptive Collaborative Filtering with Personalized Time Decay Functions for Financial Product Recommendation,2023,10.1145/3604915.3608832,1,1,2,2
+Addressing the cold-start problem of recommendation systems for financial products by using few-shot deep learning,2022,10.1007/s10489-022-03374-x,2,1,2,1
+An equity fund recommendation system by combing transfer learning and the utility function of the prospect theory,2018,10.1016/j.jfds.2018.02.003,2,2,1,2
+Investor preference analysis: An online optimization approach with missing information,2023,10.1016/j.ins.2023.03.066,2,2,2,1
+Automatic Personalized Health Insurance Recommendation Based on Utility and User Feedback,2023,10.1109/ICDMW60847.2023.00174,2,1,1,2
+Behaviour Trace-Based Unsupervised Deep Embedding for Online Multiple Product Recommendation in Commercial Banks,2023,10.1109/ICCSSE59359.2023.10245940,1,2,1,2
+BRec the Bank: Context-aware Self-attentive Encoder for Banking Products Recommendation,2022,10.1109/IJCNN55064.2022.9892130,2,2,1,1
+Can Perturbations Help Reduce Investment Risks? Risk-aware Stock Recommendation via Split Variational Adversarial Training,2024,10.1145/3643131,2,2,1,2
+CSRLoan: Cold Start Loan Recommendation with Semantic-Enhanced Neural Matrix Factorization,2022,10.3390/app122413001,2,1,2,1
+Customer-Category Interest Model: A Graph-Based Collaborative Filtering Model with Applications in Finance,2022,10.1145/3533271.3561757,2,2,1,1
+Decomposing Complementary and Substitutable Relations for Intercorporate Investment Recommendation,2022,10.1109/ICDM54844.2022.00106,2,2,1,2
+Deep Learning-Powered Financial Product Recommendation System in Banks: Integration of Transformer and Transfer Learning,2024,10.4018/JOEUC.343257,2,1,1,2
+Design a Recommendation System in Real Estate Investment based on Context Approach,2023,10.5220/0012210800003598,2,1,1,2
+Design of a personalized recommender system using sentiment analysis in social media (case study: banking system),2022,10.1007/s13278-022-00900-0,2,1,2,2
+Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation,2024,10.1145/3677052.3698683,1,2,1,2
+Evaluating multi-label classifiers and recommender systems in the financial service sector,2019,10.1016/j.ejor.2019.05.037,2,2,1,2
+Explainable mutual fund recommendation system developed based on knowledge graph embeddings,2022,10.1007/s10489-021-03136-1,1,2,2,2
+Federated Meta Embedding Concept Stock Recommendation,2024,10.1109/TBDATA.2022.3214622,2,1,2,1
+Finding potential lenders in P2P lending: A Hybrid Random Walk Approach,2018,10.1016/j.ins.2017.12.017,2,1,1,2
+Finding the Next Interesting Loan for Investors on a Peer-to-Peer Lending Platform,2021,10.1109/ACCESS.2021.3103510,2,1,2,2
+Fog computing architecture for personalized recommendation of banking products,2020,10.1016/j.eswa.2019.112900,2,1,1,2
+Graph neural networks with deep mutual learning for designing multi-modal recommendation systems,2024,10.1016/j.ins.2023.119815,1,2,2,1
+Graph-Based Recommendation Engine for Stock Investment Decisions,2023,10.1007/978-3-031-24197-0_8,1,1,2,2
+Graph-Based Stock Recommendation by Time-Aware Relational Attention Network,2022,10.1145/3451397,1,2,1,2
+Graph-Convolved Factorization Machines for Personalized Recommendation,2023,10.1109/TKDE.2021.3100564,2,2,1,2
+Group Recommendation Based on Financial Social Network for Robo-Advisor,2018,10.1109/ACCESS.2018.2871131,1,1,2,2
+Harnessing Behavioral Traits to Enhance Financial Stock Recommender Systems: Tackling the User Cold Start Problem,2023,10.1109/BigData59044.2023.10386644,2,1,1,2
+History-Augmented Collaborative Filtering for Financial Recommendations,2020,10.1145/3383313.3412206,2,2,2,1
+Incremental multiple kernel extreme learning machine and its application in Robo-advisors,2018,10.1007/s00500-018-3031-2,2,1,2,2
+Interactive preference analysis: A reinforcement learning framework,2024,10.1016/j.ejor.2024.06.033,1,2,1,2
+Investment Recommendation System for Low-Liquidity Online Peer to Peer Lending (P2PL) Marketplaces,2019,10.1145/3289600.3290959,2,1,2,1
+KiRTi: A Blockchain-Based Credit Recommender System for Financial Institutions,2021,10.1109/TNSE.2020.3005678,2,2,1,1
+Large-scale Recommendation for Portfolio Optimization,2018,10.1145/3240323.3240386,1,1,2,2
+Learning Dynamic Insurance Recommendations from Users' Click Sessions,2021,10.1145/3460231.3473900,1,2,1,2
+Learning Recommendations from User Actions in the Item-poor Insurance Domain,2022,10.1145/3523227.3546775,1,2,2,2
+Learning to recommend via random walk with profile of loan and lender in P2P lending,2021,10.1016/j.eswa.2021.114763,1,2,2,1
+Leveraging Unstructured Data to Improve Customer Engagement and Revenue in Financial Institutions: A Deep Reinforcement Learning Approach to Personalized Transaction Recommendations,2023,10.1109/CITS58301.2023.10188745,2,2,2,1
+LFFI-H: A Recommendation System Suitable for Crowdfunding Platform,2022,10.1145/3565387.3565406,2,2,2,1
+Maximizing Customer Lifetime Value using Stacked Neural Networks: An Insurance Industry Application,2019,10.1109/ICMLA.2019.00101,2,2,2,2
+Modeling and analysis of a stock-based collaborative filtering algorithm for the Chinese stock market,2020,10.1016/j.eswa.2019.113006,2,2,1,2
+Modeling behavior sequence for personalized fund recommendation with graphical deep collaborative filtering,2022,10.1016/j.eswa.2021.116311,1,1,2,2
+Non-local Graph Aggregation for Diversified Stock Recommendation,2022,10.1007/978-981-19-8991-9_12,2,1,2,2
+OCI-CBR: A hybrid model for decision support in preference-aware investment scenarios,2023,10.1016/j.eswa.2022.118568,2,1,2,2
+Personalized Dynamic Recommender System for Investors,2023,10.1145/3539618.3592035,1,2,1,2
+Personalized Fairness-aware Re-ranking for Microlending,2019,10.1145/3298689.3347016,1,2,1,2
+Real Estate Recommendation Approach for Solving the Item Cold-Start Problem,2021,10.1109/ACCESS.2021.3077564,2,2,1,1
+A Recommender System to analyze Sustainability Reports,2023,10.1145/3594536.3595131,2,1,2,1
+Recommending investors for new startups by integrating network diffusion and investors' domain preference,2020,10.1016/j.ins.2019.11.045,2,2,2,2
+Sectoral recommendation system for medium term investment using technical indicators,2024,10.1016/j.eswa.2024.125161,1,2,2,1
+Sequential Banking Products Recommendation and User Profiling in One Go,2022,10.1145/3533271.3561697,2,2,1,2
+SPCM: A Machine Learning Approach for Sentiment-Based Stock Recommendation System,2024,10.1109/ACCESS.2024.3357114,1,2,2,2
+Using Discriminative Graphical Models for Insurance Recommender Systems,2018,10.1109/ICMLA.2018.00069,1,2,2,2
+Flexible recommendation for optimizing the debt collection process based on customer risk using deep reinforcement learning,2024,10.1016/j.eswa.2024.124951,1,2,2,2
+Personalized Recommendation in P2P Lending Based on Risk-Return Management: A Multi-Objective Perspective,2022,10.1109/TBDATA.2020.2993446,1,1,2,2
+Personalized Stock Recommendation with Investors' Attention and Contextual Information,2023,10.1145/3539618.3591850,2,1,2,2
+Can ChatGPT improve investment decisions? From a portfolio management perspective,2024,10.1016/j.frl.2024.105433,2,1,2,1
+"Your AI, Not Your View: The Bias of LLMs in Investment Analysis",2025,10.1145/3768292.3770375,2,2,2,1
+Research on stock intelligent recommendation model based on LZ-Apriori algorithm,2025,10.1145/3770177.3770269,2,1,1,2
+Investment Recommender System Model Based on the Potential Investors' Key Decision Factors,2025,10.1089/big.2022.0302,2,1,1,2
+A model for investment type recommender system based on the potential investors based on investors and experts feedback using ANFIS and MNN,2024,10.1186/s40537-024-00965-y,2,1,2,2
+Adaptive neuro-fuzzy inference system for customizing investment type based on the potential investors’ demographics and feedback,2023,10.1186/s40537-023-00784-7,2,2,1,2
+A Rule-Based Stock Trading Recommendation System Using Sentiment Analysis and Technical Indicators,2025,10.3390/electronics14040773,2,1,2,1
+Knowledge enhanced prompt learning framework for financial news recommendation,2025,10.1016/j.patcog.2025.111461,2,2,2,1
+Recommendation of A-Share Stock-Based Graph Dual-Attention Self-Learning,2025,10.1109/ACCESS.2025.3614302,1,1,2,2
+Aligning Language Models with Investor and Market Behavior for Financial Recommendations,2025,10.1145/3768292.3770399,2,1,1,2
+Research on Personalized Financial Product Recommendation by Integrating Large Language Models and Graph Neural Networks,2025,10.1145/3747912.3747920,1,2,2,1
+Incorporating Domain-Specific Traits into Personality-Aware Recommendations for Financial Applications,2024,10.1007/s00354-024-00241-w,2,2,2,1
+Does ChatGPT provide better advice than robo-advisors?,2024,10.1016/j.frl.2023.104898,2,2,1,1
+Are Generative AI Agents Effective Personalized Financial Advisors?,2025,10.1145/3726302.3729897,1,2,1,2
+Democratizing Alpha: LLM-Driven Portfolio Construction for Retail Investors Using Public Financial Media,2025,10.1145/3768292.3770376,1,2,1,2
+Mean Variance Efficient Collaborative Filtering for Stock Recommendations,2025,10.1145/3768292.3770427,2,1,1,2
+Personalized fund recommendation with dynamic utility learning,2025,10.1186/s40854-024-00720-5,2,2,2,2
+Multilingual BERT-based Classification and Recommendation Model for Supporting Innovation Finance Decisions,2025,10.1145/3768292.3770384,1,2,2,1
